@@ -1,0 +1,26 @@
+.row div p {
+    font-size: xx-small
+}
+
+.imagen {
+  background-image: url("../img/ba1.jpg");
+  background-size: cover;
+  background-position: center center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 40rem;
+  filter: brightness(50%);
+}
+
+.texto {
+    display:block;
+    position:absolute
+    bottom= -16px;
+    left: 0;
+    padding: 5px;
+    width: 100%;
+}
+.card {
+    margin: 1rem;
+}

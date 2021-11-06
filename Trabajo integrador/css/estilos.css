@@ -24,3 +24,8 @@
 .card {
     margin: 1rem;
 }
+
+#footer {
+    /* position: fixed; */
+    bottom: 0px;
+}
